@@ -39,7 +39,9 @@
 - 白ひげの滝
 - 十勝岳望岳台
 - 昼食(**未定**)
-  - 候補1 ([くまげら](https://s.tabelog.com/hokkaido/A0104/A010403/1000298/)) ローストビーフ丼、しかにくくまにくなど
+  - 候補1 ([くまげら](https://s.tabelog.com/hokkaido/A0104/A010403/1000298/)) ローストビーフ丼、鹿肉熊肉など
+  - 候補2 ([ビストロ　ル・シュマン](https://s.tabelog.com/hokkaido/A0104/A010403/1001211/?cid=yo_vc_nm&vc_lpp=MSYyMGRkMDg3ODk2JjY0Y2M1N2IxJjMzNWY4ZCY2NGNkYTkyZSZaTXhYcmdBTUxHeHFnVUFMQ29JQ3JRcUNBbjJjbncmNAlaTXhYcmdBTUxHeHFnVUFMQ29JQ3JRcUNBbjJjbncJMDg4NzEzMTg2NjAyNzk3NDcyMjMwODA0MDE0MzEwCQlodHRwczovL2Fubml2ZXJzYXJ5cy1tYWcuanAvCQ)) フレンチ、イタリアン
+  
 - ファーム富田
 - (ドライブ約2時間半)
 - 20:00 トヨタレンタカー札幌駅前店(札幌市中央区北5条東1丁目2-4)
